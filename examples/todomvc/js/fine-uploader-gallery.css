@@ -40,6 +40,7 @@
     border: 1px dashed black;
     background: rgb(245, 245, 245);
     color: #525252;
+    top: 6px;
     border-radius: 9px;
 }
 .qq-gallery .qq-upload-button-hover {
